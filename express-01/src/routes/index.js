@@ -1,9 +1,9 @@
-import session from "./session";
-import user from "./user";
-import message from "./message";
+import session from "./session.js";
+import user from "./user.js";
+import message from "./message.js";
 
 export default {
-  session,
-  user,
-  message,
+	session,
+	user,
+	message,
 };
